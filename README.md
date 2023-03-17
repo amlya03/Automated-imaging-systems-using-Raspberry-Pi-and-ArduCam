@@ -1,4 +1,4 @@
-# libcamera cpp demo
+# Automated imaging systems using Raspberry Pi and ArduCam
 
 Using research and development skills to create automated imaging systems using Raspberry Pi and ArduCam to solve challenging problems.
 
