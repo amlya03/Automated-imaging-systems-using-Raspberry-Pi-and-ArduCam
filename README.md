@@ -13,6 +13,4 @@ make -j2
 
 ## Demo
 
-<div align="center">
-    <img src="./images/demo.png" alt="rwi2c" width="1244" height="445" />
-</div>
+![fiducial detect and distance estimation](https://user-images.githubusercontent.com/110672446/225898199-ba0881d7-0407-48cf-b003-0be57db2fb65.jpg)
